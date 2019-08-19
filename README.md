@@ -12,3 +12,7 @@ Data is sourced from Keras.datasets (cifar10). This data set is available at htt
 Various parameters/hyper-parameters can be easily adjusted in train.py for experimentation purposes.
 
 ![](images/Figure_1.png)
+
+![](images/Figure_2.png)
+
+![](images/Figure_2.png)
