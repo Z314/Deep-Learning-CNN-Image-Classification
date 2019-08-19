@@ -15,4 +15,4 @@ Various parameters/hyper-parameters can be easily adjusted in train.py for exper
 
 ![](images/Figure_2.png)
 
-![](images/Figure_2.png)
+![](images/Figure_3.png)
