@@ -10,3 +10,5 @@ Prediction of image classes (10000 images) is carried out by predict.py.
 Data is sourced from Keras.datasets (cifar10). This data set is available at https://www.cs.toronto.edu/~kriz/cifar.html, which describes it in detail.
 
 Various parameters/hyper-parameters can be easily adjusted in train.py for experimentation purposes.
+
+![](images/Figure_1.png)
